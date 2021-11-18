@@ -1,0 +1,723 @@
+1 Trent Owner ./images/Trent
+2 Gracie GF ./images/Gracie
+3 Trenton Owner /images/Trenton
+4 admin admin ./images/adminID: Trent owner ./images/Trent
+
+ID: Trent Owner ./images/Trent
+
+127.0.0.1 - - [03/Nov/2021 22:23:14] "GET /home HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2021 22:23:16] "GET /addDeleteFaces HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2021 22:23:18] "GET /faceLogs HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2021 22:23:43] "GET /home HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2021 22:23:44] "GET /addDeleteFaces HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2021 22:23:46] "GET /savedFaces HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2021 22:23:48] "GET /faceLogs HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2021 22:23:49] "GET /settings HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2021 22:23:51] "GET /home HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2021 22:24:20] "GET /addDeleteFaces HTTP/1.1" 200 -
+ * Detected change in '/home/pi/webapp/url.py', reloading
+ID: Trent owner ./images/Trent
+127.0.0.1 - - [03/Nov/2021 22:25:45] "POST /new HTTP/1.1" 302 -
+127.0.0.1 - - [03/Nov/2021 22:25:46] "GET /addDeleteFaces HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2021 22:25:47] "GET /new HTTP/1.1" 200 -
+ID: Grace GF ./images/Grace
+127.0.0.1 - - [03/Nov/2021 22:25:57] "POST /new HTTP/1.1" 302 -
+127.0.0.1 - - [03/Nov/2021 22:25:57] "GET /addDeleteFaces HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2021 22:26:02] "GET /deleteRows HTTP/1.1" 500 -
+127.0.0.1 - - [03/Nov/2021 22:26:02] "GET /deleteRows?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2021 22:26:03] "GET /deleteRows?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2021 22:26:03] "GET /deleteRows?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Nov/2021 22:26:03] "GET /deleteRows?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+ * Detected change in '/home/pi/webapp/url.py', reloading
+./images/fuck you
+ID: Trent test ./images/Trent
+127.0.0.1 - - [07/Nov/2021 16:21:09] "POST /new HTTP/1.1" 302 -
+127.0.0.1 - - [07/Nov/2021 16:21:09] "GET /addDeleteFaces HTTP/1.1" 200 -
+127.0.0.1 - - [07/Nov/2021 16:21:32] "GET /deleteRows?mid=Trent HTTP/1.1" 302 -
+127.0.0.1 - - [07/Nov/2021 16:21:32] "GET /addDeleteFaces HTTP/1.1" 200 -
+127.0.0.1 - - [07/Nov/2021 16:22:25] "GET /new HTTP/1.1" 200 -
+ID: Trent owner ./images/Trent
+127.0.0.1 - - [07/Nov/2021 16:22:29] "POST /new HTTP/1.1" 302 -
+127.0.0.1 - - [07/Nov/2021 16:22:30] "GET /addDeleteFaces HTTP/1.1" 200 -
+ * Detected change in '/home/pi/webapp/url.py', reloading
+ID: Trent owner ./images/Trent
+127.0.0.1 - - [07/Nov/2021 16:23:22] "POST /new HTTP/1.1" 302 -
+127.0.0.1 - - [07/Nov/2021 16:23:22] "GET /addDeleteFaces HTTP/1.1" 200 -
+ * Detected change in '/home/pi/webapp/url.py', reloading
+ID: Trent owner ./images/Trent
+127.0.0.1 - - [07/Nov/2021 16:25:32] "POST /new HTTP/1.1" 302 -
+127.0.0.1 - - [07/Nov/2021 16:25:32] "GET /addDeleteFaces HTTP/1.1" 200 -
+127.0.0.1 - - [07/Nov/2021 16:25:35] "GET /deleteRows?mid=Trent HTTP/1.1" 302 -
+127.0.0.1 - - [07/Nov/2021 16:25:35] "GET /addDeleteFaces HTTP/1.1" 200 -
+127.0.0.1 - - [07/Nov/2021 16:25:43] "GET /new HTTP/1.1" 200 -
+ID: Trent owner ./images/Trent
+127.0.0.1 - - [07/Nov/2021 16:25:46] "POST /new HTTP/1.1" 302 -
+127.0.0.1 - - [07/Nov/2021 16:25:46] "GET /addDeleteFaces HTTP/1.1" 200 -
+127.0.0.1 - - [07/Nov/2021 16:26:06] "GET /deleteRows?mid=Trent HTTP/1.1" 302 -
+127.0.0.1 - - [07/Nov/2021 16:26:06] "GET /addDeleteFaces HTTP/1.1" 200 -
+127.0.0.1 - - [07/Nov/2021 16:26:11] "GET /faceLogs HTTP/1.1" 200 -
+127.0.0.1 - - [07/Nov/2021 16:28:38] "GET /savedFaces HTTP/1.1" 200 -
+127.0.0.1 - - [07/Nov/2021 16:28:40] "GET /addDeleteFaces HTTP/1.1" 200 -
+127.0.0.1 - - [07/Nov/2021 16:28:43] "GET /new HTTP/1.1" 200 -
+ID: Trent owner ./images/Trent
+127.0.0.1 - - [07/Nov/2021 16:28:52] "POST /new HTTP/1.1" 302 -
+127.0.0.1 - - [07/Nov/2021 16:28:52] "GET /addDeleteFaces HTTP/1.1" 200 -
+127.0.0.1 - - [07/Nov/2021 16:28:53] "GET /savedFaces HTTP/1.1" 200 -
+127.0.0.1 - - [07/Nov/2021 16:29:20] "GET /savedFaces HTTP/1.1" 500 -
+127.0.0.1 - - [07/Nov/2021 16:29:20] "GET /savedFaces?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+127.0.0.1 - - [07/Nov/2021 16:29:20] "GET /savedFaces?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [07/Nov/2021 16:29:20] "GET /savedFaces?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+127.0.0.1 - - [07/Nov/2021 16:29:21] "GET /savedFaces?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+127.0.0.1 - - [07/Nov/2021 16:29:21] "GET /savedFaces?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+127.0.0.1 - - [07/Nov/2021 16:29:42] "GET /savedFaces HTTP/1.1" 500 -
+127.0.0.1 - - [07/Nov/2021 16:29:43] "GET /savedFaces?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+127.0.0.1 - - [07/Nov/2021 16:29:43] "GET /savedFaces?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [07/Nov/2021 16:29:43] "GET /savedFaces?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+127.0.0.1 - - [07/Nov/2021 16:29:44] "GET /savedFaces?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+127.0.0.1 - - [07/Nov/2021 16:29:44] "GET /savedFaces?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+127.0.0.1 - - [07/Nov/2021 16:30:18] "GET /savedFaces HTTP/1.1" 200 -
+127.0.0.1 - - [07/Nov/2021 16:32:56] "GET /savedFaces HTTP/1.1" 200 -
+127.0.0.1 - - [07/Nov/2021 16:32:59] "GET /faceLogs HTTP/1.1" 200 -
+127.0.0.1 - - [07/Nov/2021 16:33:01] "GET /settings HTTP/1.1" 200 -
+127.0.0.1 - - [07/Nov/2021 16:35:10] "GET /trainImages HTTP/1.1" 500 -
+127.0.0.1 - - [07/Nov/2021 16:35:10] "GET /trainImages?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+127.0.0.1 - - [07/Nov/2021 16:35:10] "GET /trainImages?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [07/Nov/2021 16:35:10] "GET /trainImages?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+127.0.0.1 - - [07/Nov/2021 16:35:11] "GET /trainImages?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+./images/Trent
+./images/fh
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [08/Nov/2021 20:23:23] "GET /new HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2021 20:24:48] "GET /new HTTP/1.1" 200 -
+ID: test test ./images/test
+127.0.0.1 - - [08/Nov/2021 20:24:57] "POST /new HTTP/1.1" 302 -
+127.0.0.1 - - [08/Nov/2021 20:24:57] "GET /addDeleteFaces HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2021 20:26:03] "GET /deleteRows?mid=test HTTP/1.1" 302 -
+127.0.0.1 - - [08/Nov/2021 20:26:03] "GET /addDeleteFaces HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2021 20:26:27] "GET /addDeleteFaces HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2021 20:26:28] "GET /new HTTP/1.1" 200 -
+ID: test test ./images/test
+127.0.0.1 - - [08/Nov/2021 20:26:33] "POST /new HTTP/1.1" 302 -
+127.0.0.1 - - [08/Nov/2021 20:26:33] "GET /addDeleteFaces HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2021 20:26:41] "GET /deleteRows?mid=test HTTP/1.1" 302 -
+127.0.0.1 - - [08/Nov/2021 20:26:41] "GET /addDeleteFaces HTTP/1.1" 200 -
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [08/Nov/2021 20:26:53] "GET /addDeleteFaces HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2021 20:26:54] "GET /new HTTP/1.1" 200 -
+Exception on /new [POST]
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/lib/python3/dist-packages/flask/_compat.py", line 35, in reraise
+    raise value
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/pi/webapp/url.py", line 103, in new
+    getImage()
+  File "/home/pi/webapp/url.py", line 126, in getImage
+    image()
+  File "/home/pi/webapp/camera.py", line 27, in image
+    name = request.form["name"]
+NameError: name 'request' is not defined
+127.0.0.1 - - [08/Nov/2021 20:27:00] "POST /new HTTP/1.1" 500 -
+127.0.0.1 - - [08/Nov/2021 20:27:25] "GET /new HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2021 20:27:26] "GET /addDeleteFaces HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2021 20:27:29] "GET /new HTTP/1.1" 200 -
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [08/Nov/2021 20:29:26] "GET /new HTTP/1.1" 200 -
+Exception on /new [POST]
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/lib/python3/dist-packages/flask/_compat.py", line 35, in reraise
+    raise value
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/pi/webapp/url.py", line 103, in new
+    getImage()
+  File "/home/pi/webapp/url.py", line 126, in getImage
+    image()
+  File "/home/pi/webapp/camera.py", line 74, in image
+    image()
+  File "/home/pi/webapp/camera.py", line 38, in image
+    camera = PiCamera()
+  File "/usr/lib/python3/dist-packages/picamera/camera.py", line 433, in __init__
+    self._init_preview()
+  File "/usr/lib/python3/dist-packages/picamera/camera.py", line 513, in _init_preview
+    self, self._camera.outputs[self.CAMERA_PREVIEW_PORT])
+  File "/usr/lib/python3/dist-packages/picamera/renderers.py", line 558, in __init__
+    self.renderer.inputs[0].connect(source).enable()
+  File "/usr/lib/python3/dist-packages/picamera/mmalobj.py", line 2212, in enable
+    prefix="Failed to enable connection")
+  File "/usr/lib/python3/dist-packages/picamera/exc.py", line 184, in mmal_check
+    raise PiCameraMMALError(status, prefix)
+picamera.exc.PiCameraMMALError: Failed to enable connection: Out of resources
+127.0.0.1 - - [08/Nov/2021 20:30:46] "POST /new HTTP/1.1" 500 -
+127.0.0.1 - - [08/Nov/2021 20:30:59] "GET /addDeleteFaces HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2021 20:31:02] "GET /addDeleteFaces HTTP/1.1" 200 -
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [08/Nov/2021 20:31:55] "GET /new HTTP/1.1" 200 -
+Exception on /new [POST]
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/lib/python3/dist-packages/flask/_compat.py", line 35, in reraise
+    raise value
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/pi/webapp/url.py", line 105, in new
+    getImage()
+  File "/home/pi/webapp/url.py", line 127, in getImage
+    image()
+  File "/home/pi/webapp/camera.py", line 74, in image
+    image()
+  File "/home/pi/webapp/camera.py", line 38, in image
+    camera = PiCamera()
+  File "/usr/lib/python3/dist-packages/picamera/camera.py", line 433, in __init__
+    self._init_preview()
+  File "/usr/lib/python3/dist-packages/picamera/camera.py", line 513, in _init_preview
+    self, self._camera.outputs[self.CAMERA_PREVIEW_PORT])
+  File "/usr/lib/python3/dist-packages/picamera/renderers.py", line 558, in __init__
+    self.renderer.inputs[0].connect(source).enable()
+  File "/usr/lib/python3/dist-packages/picamera/mmalobj.py", line 2212, in enable
+    prefix="Failed to enable connection")
+  File "/usr/lib/python3/dist-packages/picamera/exc.py", line 184, in mmal_check
+    raise PiCameraMMALError(status, prefix)
+picamera.exc.PiCameraMMALError: Failed to enable connection: Out of resources
+127.0.0.1 - - [08/Nov/2021 20:32:13] "POST /new HTTP/1.1" 500 -
+127.0.0.1 - - [08/Nov/2021 20:32:59] "GET /addDeleteFaces HTTP/1.1" 200 -
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [08/Nov/2021 20:33:11] "GET /new HTTP/1.1" 200 -
+Exception on /new [POST]
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/lib/python3/dist-packages/flask/_compat.py", line 35, in reraise
+    raise value
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/pi/webapp/url.py", line 105, in new
+    getImage()
+  File "/home/pi/webapp/url.py", line 127, in getImage
+    image()
+  File "/home/pi/webapp/camera.py", line 74, in image
+    image()
+  File "/home/pi/webapp/camera.py", line 38, in image
+    camera = PiCamera()
+  File "/usr/lib/python3/dist-packages/picamera/camera.py", line 433, in __init__
+    self._init_preview()
+  File "/usr/lib/python3/dist-packages/picamera/camera.py", line 513, in _init_preview
+    self, self._camera.outputs[self.CAMERA_PREVIEW_PORT])
+  File "/usr/lib/python3/dist-packages/picamera/renderers.py", line 558, in __init__
+    self.renderer.inputs[0].connect(source).enable()
+  File "/usr/lib/python3/dist-packages/picamera/mmalobj.py", line 2212, in enable
+    prefix="Failed to enable connection")
+  File "/usr/lib/python3/dist-packages/picamera/exc.py", line 184, in mmal_check
+    raise PiCameraMMALError(status, prefix)
+picamera.exc.PiCameraMMALError: Failed to enable connection: Out of resources
+127.0.0.1 - - [08/Nov/2021 20:33:30] "POST /new HTTP/1.1" 500 -
+127.0.0.1 - - [08/Nov/2021 20:33:38] "GET /addDeleteFaces HTTP/1.1" 200 -
+Exception on /image [GET]
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/lib/python3/dist-packages/flask/_compat.py", line 35, in reraise
+    raise value
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/pi/webapp/url.py", line 127, in getImage
+    image()
+  File "/home/pi/webapp/camera.py", line 38, in image
+    camera = PiCamera()
+  File "/usr/lib/python3/dist-packages/picamera/camera.py", line 433, in __init__
+    self._init_preview()
+  File "/usr/lib/python3/dist-packages/picamera/camera.py", line 513, in _init_preview
+    self, self._camera.outputs[self.CAMERA_PREVIEW_PORT])
+  File "/usr/lib/python3/dist-packages/picamera/renderers.py", line 558, in __init__
+    self.renderer.inputs[0].connect(source).enable()
+  File "/usr/lib/python3/dist-packages/picamera/mmalobj.py", line 2212, in enable
+    prefix="Failed to enable connection")
+  File "/usr/lib/python3/dist-packages/picamera/exc.py", line 184, in mmal_check
+    raise PiCameraMMALError(status, prefix)
+picamera.exc.PiCameraMMALError: Failed to enable connection: Out of resources
+127.0.0.1 - - [08/Nov/2021 20:33:46] "GET /image HTTP/1.1" 500 -
+127.0.0.1 - - [08/Nov/2021 20:33:51] "GET /deleteRows?mid=Trenton HTTP/1.1" 302 -
+127.0.0.1 - - [08/Nov/2021 20:33:51] "GET /addDeleteFaces HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2021 20:33:55] "GET /deleteRows?mid=test HTTP/1.1" 302 -
+127.0.0.1 - - [08/Nov/2021 20:33:55] "GET /addDeleteFaces HTTP/1.1" 200 -
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [08/Nov/2021 20:35:18] "GET /addDeleteFaces HTTP/1.1" 200 -
+Exception on /deleteRows [GET]
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/lib/python3/dist-packages/flask/_compat.py", line 35, in reraise
+    raise value
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/pi/webapp/url.py", line 226, in row_delete
+    shutil.rmtree(path2)
+  File "/usr/lib/python3.7/shutil.py", line 482, in rmtree
+    onerror(os.lstat, path, sys.exc_info())
+  File "/usr/lib/python3.7/shutil.py", line 480, in rmtree
+    orig_st = os.lstat(path)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/pi/webapp/zip/Trent'
+127.0.0.1 - - [08/Nov/2021 20:35:22] "GET /deleteRows?mid=Trent HTTP/1.1" 500 -
+127.0.0.1 - - [08/Nov/2021 20:35:38] "GET /savedFaces HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2021 20:35:40] "GET /addDeleteFaces HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2021 20:37:21] "GET /new HTTP/1.1" 200 -
+Exception on /new [POST]
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/lib/python3/dist-packages/flask/_compat.py", line 35, in reraise
+    raise value
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/pi/webapp/url.py", line 105, in new
+    getImage()
+  File "/home/pi/webapp/url.py", line 127, in getImage
+    image()
+  File "/home/pi/webapp/camera.py", line 74, in image
+    image()
+  File "/home/pi/webapp/camera.py", line 38, in image
+    camera = PiCamera()
+  File "/usr/lib/python3/dist-packages/picamera/camera.py", line 433, in __init__
+    self._init_preview()
+  File "/usr/lib/python3/dist-packages/picamera/camera.py", line 513, in _init_preview
+    self, self._camera.outputs[self.CAMERA_PREVIEW_PORT])
+  File "/usr/lib/python3/dist-packages/picamera/renderers.py", line 558, in __init__
+    self.renderer.inputs[0].connect(source).enable()
+  File "/usr/lib/python3/dist-packages/picamera/mmalobj.py", line 2212, in enable
+    prefix="Failed to enable connection")
+  File "/usr/lib/python3/dist-packages/picamera/exc.py", line 184, in mmal_check
+    raise PiCameraMMALError(status, prefix)
+picamera.exc.PiCameraMMALError: Failed to enable connection: Out of resources
+127.0.0.1 - - [08/Nov/2021 20:38:05] "POST /new HTTP/1.1" 500 -
+127.0.0.1 - - [08/Nov/2021 20:38:09] "GET /new HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2021 20:38:11] "GET /addDeleteFaces HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2021 20:38:12] "GET /addDeleteFaces HTTP/1.1" 200 -
+Exception on /image [GET]
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/lib/python3/dist-packages/flask/_compat.py", line 35, in reraise
+    raise value
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/pi/webapp/url.py", line 127, in getImage
+    image()
+  File "/home/pi/webapp/camera.py", line 38, in image
+    camera = PiCamera()
+  File "/usr/lib/python3/dist-packages/picamera/camera.py", line 433, in __init__
+    self._init_preview()
+  File "/usr/lib/python3/dist-packages/picamera/camera.py", line 513, in _init_preview
+    self, self._camera.outputs[self.CAMERA_PREVIEW_PORT])
+  File "/usr/lib/python3/dist-packages/picamera/renderers.py", line 558, in __init__
+    self.renderer.inputs[0].connect(source).enable()
+  File "/usr/lib/python3/dist-packages/picamera/mmalobj.py", line 2212, in enable
+    prefix="Failed to enable connection")
+  File "/usr/lib/python3/dist-packages/picamera/exc.py", line 184, in mmal_check
+    raise PiCameraMMALError(status, prefix)
+picamera.exc.PiCameraMMALError: Failed to enable connection: Out of resources
+127.0.0.1 - - [08/Nov/2021 20:38:16] "GET /image HTTP/1.1" 500 -
+Exception on /deleteRows [GET]
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/lib/python3/dist-packages/flask/_compat.py", line 35, in reraise
+    raise value
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/pi/webapp/url.py", line 226, in row_delete
+    flash(msg_text)
+  File "/usr/lib/python3.7/shutil.py", line 482, in rmtree
+    onerror(os.lstat, path, sys.exc_info())
+  File "/usr/lib/python3.7/shutil.py", line 480, in rmtree
+    orig_st = os.lstat(path)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/pi/webapp/zip/Trent'
+127.0.0.1 - - [08/Nov/2021 20:38:33] "GET /deleteRows?mid=Trent HTTP/1.1" 500 -
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [08/Nov/2021 20:39:27] "GET /addDeleteFaces HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2021 20:39:29] "GET /new HTTP/1.1" 200 -
+Exception on /new [POST]
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/lib/python3/dist-packages/flask/_compat.py", line 35, in reraise
+    raise value
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "url.py", line 105, in new
+    getImage()
+  File "url.py", line 127, in getImage
+    image()
+  File "/home/pi/webapp/camera.py", line 74, in image
+    image()
+  File "/home/pi/webapp/camera.py", line 38, in image
+    camera = PiCamera()
+  File "/usr/lib/python3/dist-packages/picamera/camera.py", line 433, in __init__
+    self._init_preview()
+  File "/usr/lib/python3/dist-packages/picamera/camera.py", line 513, in _init_preview
+    self, self._camera.outputs[self.CAMERA_PREVIEW_PORT])
+  File "/usr/lib/python3/dist-packages/picamera/renderers.py", line 558, in __init__
+    self.renderer.inputs[0].connect(source).enable()
+  File "/usr/lib/python3/dist-packages/picamera/mmalobj.py", line 2212, in enable
+    prefix="Failed to enable connection")
+  File "/usr/lib/python3/dist-packages/picamera/exc.py", line 184, in mmal_check
+    raise PiCameraMMALError(status, prefix)
+picamera.exc.PiCameraMMALError: Failed to enable connection: Out of resources
+127.0.0.1 - - [08/Nov/2021 20:39:54] "POST /new HTTP/1.1" 500 -
+127.0.0.1 - - [08/Nov/2021 20:40:00] "GET /addDeleteFaces HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2021 20:41:14] "GET /addDeleteFaces HTTP/1.1" 200 -
+Exception on /deleteRows [GET]
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/lib/python3/dist-packages/flask/_compat.py", line 35, in reraise
+    raise value
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "url.py", line 225, in row_delete
+    shutil.rmtree(sister)
+  File "/usr/lib/python3.7/shutil.py", line 491, in rmtree
+    _rmtree_safe_fd(fd, path, onerror)
+  File "/usr/lib/python3.7/shutil.py", line 410, in _rmtree_safe_fd
+    onerror(os.scandir, path, sys.exc_info())
+  File "/usr/lib/python3.7/shutil.py", line 406, in _rmtree_safe_fd
+    with os.scandir(topfd) as scandir_it:
+NotADirectoryError: [Errno 20] Not a directory: '/home/pi/webapp/zip/test.zip'
+127.0.0.1 - - [08/Nov/2021 20:41:16] "GET /deleteRows?mid=test HTTP/1.1" 500 -
+127.0.0.1 - - [08/Nov/2021 20:41:36] "GET /addDeleteFaces HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2021 20:42:03] "GET /new HTTP/1.1" 200 -
+Exception on /new [POST]
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/lib/python3/dist-packages/flask/_compat.py", line 35, in reraise
+    raise value
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "url.py", line 105, in new
+    getImage()
+  File "url.py", line 127, in getImage
+    image()
+  File "/home/pi/webapp/camera.py", line 38, in image
+    camera = PiCamera()
+  File "/usr/lib/python3/dist-packages/picamera/camera.py", line 433, in __init__
+    self._init_preview()
+  File "/usr/lib/python3/dist-packages/picamera/camera.py", line 513, in _init_preview
+    self, self._camera.outputs[self.CAMERA_PREVIEW_PORT])
+  File "/usr/lib/python3/dist-packages/picamera/renderers.py", line 558, in __init__
+    self.renderer.inputs[0].connect(source).enable()
+  File "/usr/lib/python3/dist-packages/picamera/mmalobj.py", line 2212, in enable
+    prefix="Failed to enable connection")
+  File "/usr/lib/python3/dist-packages/picamera/exc.py", line 184, in mmal_check
+    raise PiCameraMMALError(status, prefix)
+picamera.exc.PiCameraMMALError: Failed to enable connection: Out of resources
+127.0.0.1 - - [08/Nov/2021 20:42:06] "POST /new HTTP/1.1" 500 -
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+Exception on /new [POST]
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/lib/python3/dist-packages/flask/_compat.py", line 35, in reraise
+    raise value
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "url.py", line 105, in new
+    getImage()
+  File "url.py", line 127, in getImage
+    image()
+  File "/home/pi/webapp/camera.py", line 74, in image
+    image()
+  File "/home/pi/webapp/camera.py", line 38, in image
+    camera = PiCamera()
+  File "/usr/lib/python3/dist-packages/picamera/camera.py", line 433, in __init__
+    self._init_preview()
+  File "/usr/lib/python3/dist-packages/picamera/camera.py", line 513, in _init_preview
+    self, self._camera.outputs[self.CAMERA_PREVIEW_PORT])
+  File "/usr/lib/python3/dist-packages/picamera/renderers.py", line 558, in __init__
+    self.renderer.inputs[0].connect(source).enable()
+  File "/usr/lib/python3/dist-packages/picamera/mmalobj.py", line 2212, in enable
+    prefix="Failed to enable connection")
+  File "/usr/lib/python3/dist-packages/picamera/exc.py", line 184, in mmal_check
+    raise PiCameraMMALError(status, prefix)
+picamera.exc.PiCameraMMALError: Failed to enable connection: Out of resources
+127.0.0.1 - - [08/Nov/2021 20:43:10] "POST /new HTTP/1.1" 500 -
+127.0.0.1 - - [08/Nov/2021 20:43:16] "GET /addDeleteFaces HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2021 20:43:30] "GET /deleteRows?mid=Trent HTTP/1.1" 302 -
+127.0.0.1 - - [08/Nov/2021 20:43:31] "GET /addDeleteFaces HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2021 20:43:41] "GET /savedFaces HTTP/1.1" 200 -
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [09/Nov/2021 16:38:33] "GET /addDeleteFaces HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2021 16:38:34] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [09/Nov/2021 16:38:38] "POST /addDeleteFaces HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2021 16:39:29] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2021 16:39:31] "GET /login HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2021 16:39:36] "POST /login HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2021 16:39:47] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2021 16:39:48] "GET /register HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2021 16:39:55] "POST /register HTTP/1.1" 302 -
+127.0.0.1 - - [09/Nov/2021 16:39:55] "GET /login HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2021 16:40:01] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [09/Nov/2021 16:40:01] "GET /home HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2021 16:40:03] "GET /addDeleteFaces HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2021 16:40:05] "GET /faceLogs HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2021 16:40:06] "GET /settings HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2021 16:40:23] "GET /settings/ChangePass HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2021 16:40:24] "GET /settings/EditUsers HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2021 16:40:26] "GET /settings/ChangePass HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2021 16:42:55] "GET /addDeleteFaces HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2021 16:42:56] "GET /savedFaces HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2021 16:42:58] "GET /faceLogs HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2021 16:43:08] "GET /settings HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2021 16:43:09] "GET /home HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2021 16:43:10] "GET /addDeleteFaces HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2021 16:43:12] "GET /faceLogs HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2021 16:43:21] "GET /home HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2021 16:43:42] "GET /addDeleteFaces HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2021 16:43:43] "GET /savedFaces HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2021 16:43:45] "GET /home HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2021 16:44:03] "GET /home HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2021 16:45:02] "GET /savedFaces HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2021 16:45:04] "GET /home HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2021 16:45:06] "GET /addDeleteFaces HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2021 16:45:07] "GET /home HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2021 16:45:22] "GET /faceLogs HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2021 16:45:25] "GET /settings HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2021 16:45:26] "GET /home HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2021 16:48:54] "GET /home HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2021 16:48:58] "GET /addDeleteFaces HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2021 16:49:02] "GET /savedFaces HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2021 16:49:03] "GET /faceLogs HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2021 16:49:05] "GET /home HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2021 16:49:23] "GET /home HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2021 16:52:06] "GET /addDeleteFaces HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2021 16:52:28] "GET /new HTTP/1.1" 200 -
+Exception on /new [POST]
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/lib/python3/dist-packages/flask/_compat.py", line 35, in reraise
+    raise value
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "url.py", line 105, in new
+    getImage()
+  File "url.py", line 127, in getImage
+    image()
+  File "/home/pi/webapp/camera.py", line 74, in image
+    image()
+  File "/home/pi/webapp/camera.py", line 38, in image
+    camera = PiCamera()
+  File "/usr/lib/python3/dist-packages/picamera/camera.py", line 433, in __init__
+    self._init_preview()
+  File "/usr/lib/python3/dist-packages/picamera/camera.py", line 513, in _init_preview
+    self, self._camera.outputs[self.CAMERA_PREVIEW_PORT])
+  File "/usr/lib/python3/dist-packages/picamera/renderers.py", line 558, in __init__
+    self.renderer.inputs[0].connect(source).enable()
+  File "/usr/lib/python3/dist-packages/picamera/mmalobj.py", line 2212, in enable
+    prefix="Failed to enable connection")
+  File "/usr/lib/python3/dist-packages/picamera/exc.py", line 184, in mmal_check
+    raise PiCameraMMALError(status, prefix)
+picamera.exc.PiCameraMMALError: Failed to enable connection: Out of resources
+127.0.0.1 - - [09/Nov/2021 16:53:09] "POST /new HTTP/1.1" 500 -
+127.0.0.1 - - [09/Nov/2021 16:53:14] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2021 16:53:22] "GET /addDeleteFaces HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2021 16:53:30] "GET /savedFaces HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2021 16:54:02] "GET /addDeleteFaces HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2021 16:54:04] "GET /new HTTP/1.1" 200 -
+Exception on /new [POST]
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/lib/python3/dist-packages/flask/_compat.py", line 35, in reraise
+    raise value
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "url.py", line 105, in new
+    getImage()
+  File "url.py", line 127, in getImage
+    image()
+  File "/home/pi/webapp/camera.py", line 38, in image
+    camera = PiCamera()
+  File "/usr/lib/python3/dist-packages/picamera/camera.py", line 433, in __init__
+    self._init_preview()
+  File "/usr/lib/python3/dist-packages/picamera/camera.py", line 513, in _init_preview
+    self, self._camera.outputs[self.CAMERA_PREVIEW_PORT])
+  File "/usr/lib/python3/dist-packages/picamera/renderers.py", line 558, in __init__
+    self.renderer.inputs[0].connect(source).enable()
+  File "/usr/lib/python3/dist-packages/picamera/mmalobj.py", line 2212, in enable
+    prefix="Failed to enable connection")
+  File "/usr/lib/python3/dist-packages/picamera/exc.py", line 184, in mmal_check
+    raise PiCameraMMALError(status, prefix)
+picamera.exc.PiCameraMMALError: Failed to enable connection: Out of resources
+127.0.0.1 - - [09/Nov/2021 16:54:09] "POST /new HTTP/1.1" 500 -
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [09/Nov/2021 16:55:59] "POST /new HTTP/1.1" 302 -
+127.0.0.1 - - [09/Nov/2021 16:55:59] "GET /addDeleteFaces HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2021 16:56:04] "GET /deleteRows?mid=Trent HTTP/1.1" 302 -
+127.0.0.1 - - [09/Nov/2021 16:56:04] "GET /addDeleteFaces HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2021 16:56:11] "GET /new HTTP/1.1" 200 -
+Exception on /new [POST]
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/lib/python3/dist-packages/flask/_compat.py", line 35, in reraise
+    raise value
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "url.py", line 105, in new
+    getImage()
+  File "url.py", line 127, in getImage
+    image()
+  File "/home/pi/webapp/camera.py", line 38, in image
+    camera = PiCamera()
+  File "/usr/lib/python3/dist-packages/picamera/camera.py", line 433, in __init__
+    self._init_preview()
+  File "/usr/lib/python3/dist-packages/picamera/camera.py", line 513, in _init_preview
+    self, self._camera.outputs[self.CAMERA_PREVIEW_PORT])
+  File "/usr/lib/python3/dist-packages/picamera/renderers.py", line 558, in __init__
+    self.renderer.inputs[0].connect(source).enable()
+  File "/usr/lib/python3/dist-packages/picamera/mmalobj.py", line 2212, in enable
+    prefix="Failed to enable connection")
+  File "/usr/lib/python3/dist-packages/picamera/exc.py", line 184, in mmal_check
+    raise PiCameraMMALError(status, prefix)
+picamera.exc.PiCameraMMALError: Failed to enable connection: Out of resources
+127.0.0.1 - - [09/Nov/2021 16:56:14] "POST /new HTTP/1.1" 500 -
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [09/Nov/2021 16:57:15] "POST /new HTTP/1.1" 302 -
+127.0.0.1 - - [09/Nov/2021 16:57:15] "GET /addDeleteFaces HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2021 16:57:26] "GET /deleteRows?mid=Trent HTTP/1.1" 302 -
+127.0.0.1 - - [09/Nov/2021 16:57:26] "GET /addDeleteFaces HTTP/1.1" 200 -
+127.0.0.1 - - [09/Nov/2021 16:57:35] "GET /new HTTP/1.1" 200 -
+Exception on /new [POST]
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/lib/python3/dist-packages/flask/_compat.py", line 35, in reraise
+    raise value
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "url.py", line 105, in new
+    getImage()
+  File "url.py", line 127, in getImage
+    image()
+  File "/home/pi/webapp/camera.py", line 38, in image
+    camera = PiCamera()
+  File "/usr/lib/python3/dist-packages/picamera/camera.py", line 433, in __init__
+    self._init_preview()
+  File "/usr/lib/python3/dist-packages/picamera/camera.py", line 513, in _init_preview
+    self, self._camera.outputs[self.CAMERA_PREVIEW_PORT])
+  File "/usr/lib/python3/dist-packages/picamera/renderers.py", line 558, in __init__
+    self.renderer.inputs[0].connect(source).enable()
+  File "/usr/lib/python3/dist-packages/picamera/mmalobj.py", line 2212, in enable
+    prefix="Failed to enable connection")
+  File "/usr/lib/python3/dist-packages/picamera/exc.py", line 184, in mmal_check
+    raise PiCameraMMALError(status, prefix)
+picamera.exc.PiCameraMMALError: Failed to enable connection: Out of resources
+127.0.0.1 - - [09/Nov/2021 16:57:38] "POST /new HTTP/1.1" 500 -
